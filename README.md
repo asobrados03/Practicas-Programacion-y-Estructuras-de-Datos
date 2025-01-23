@@ -39,8 +39,6 @@ Todas las prácticas se ejecutan siguiendo estos pasos que se describen a contin
 
    - Si es la primera vez, selecciona un JDK en tu máquina o descárgalo desde IntelliJ. Asegúrate de usar JDK 8 o superior.
 
----
-
 ### **2. Verificar la estructura del proyecto**
 1. Asegúrate de que tu archivo fuente (`Main.java`) (Clase principal de cada proyecto con el método main) esté dentro de una carpeta llamada `src` o algo similar. La estructura típica sería:
 
@@ -56,15 +54,11 @@ Todas las prácticas se ejecutan siguiendo estos pasos que se describen a contin
    - Haz clic derecho en la carpeta `src`.
    - Selecciona **Mark Directory as > Sources Root**.
 
----
-
 ### **3. Ejecutar el programa**
 1. Abre el archivo `Main.java` en IntelliJ.
 2. Busca el botón verde con forma de triángulo ▶ junto al método `main`.
 3. Haz clic en ese botón y selecciona **Run 'Main'**.
 4. IntelliJ compilará automáticamente el programa y lo ejecutará en la consola integrada.
-
----
 
 ### **4. Configurar parámetros de ejecución (si son necesarios)**
 Si tu programa requiere argumentos de entrada, puedes configurarlos fácilmente:
@@ -73,16 +67,12 @@ Si tu programa requiere argumentos de entrada, puedes configurarlos fácilmente:
 3. En el campo **Program Arguments**, escribe los argumentos separados por espacios (por ejemplo, `arg1 arg2`).
 4. Haz clic en **OK** y vuelve a ejecutar el programa.
 
----
-
 ## **Usando Eclipse**
 
 ### **1. Abrir el proyecto en Eclipse**
 1. Abre Eclipse.
 2. Ve a **File > Import > Existing Projects into Workspace**.
 3. Selecciona la carpeta del repositorio clonado de GitHub y haz clic en **Finish**.
-
----
 
 ### **2. Verificar la estructura del proyecto**
 1. Asegúrate de que tu archivo `Main.java` (Clase principal de cada proyecto con el método main) esté dentro de una carpeta marcada como **src**. Por ejemplo:
