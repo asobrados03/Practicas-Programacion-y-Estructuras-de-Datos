@@ -1,5 +1,10 @@
 # Prácticas de Programacion y Estructuras de Datos
-Repositorio de prácticas de laboratorio para la asignatura de Programación y Estructuras de Datos en el curso académico 2022-2023.
+Repositorio de prácticas de laboratorio realizadas en pareja para la asignatura de Programación y Estructuras de Datos en el curso académico 2022-2023.
+
+## Autores de las prácticas:
+
+- Raúl Colindres de Lucas
+- Alfredo Sobrados González
 
 ## Prácticas
 
