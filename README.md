@@ -7,10 +7,13 @@ Repositorio de prácticas de laboratorio para la asignatura de Programación y E
    - Implementación de la gestión de viajes de una empresa de autobuses utilizando una multilista (Una lista doblemente enlazada génerica y una lista enlazada génerica)
    - [Ver código](PED_P1_4L_1/GestionEmpresaAutobuses/src)
    - [Ver memoria técnica](PED_P1_4L_1/Memoria-Practica1.pdf)
+   - [Ver enunciado de la práctica](PED_P1_4L_1/PED_Practica1_2022-23_multilista-Autobuses.pdf)
+     
 2. **Práctica 2: TAD Pila y TAD Cola**
    - Implementación de dos estructuras de datos el Tipo Abstracto de Datos Pila y el Tipo Abstracto de Datos Cola
    - [Ver código](PED_P2_4L_1/TADs-Pila-y-Cola/src)
    - [Ver memoria técnica](PED_P2_4L_1/Memoria-Practica2.pdf)
+     
 3. **Práctica 3: TAD ABB**
    - Implementación de una estructura de datos el Tipo Abstracto de Datos Árbol Binario de Busqueda
    - [Ver código](PED_P3_4L_1/TAD-ABB/src)
