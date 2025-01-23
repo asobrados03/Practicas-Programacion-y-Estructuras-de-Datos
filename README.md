@@ -1,4 +1,4 @@
-# Prácticas de Programacion y Estructuras de Datos
+# Prácticas de Programación y Estructuras de Datos
 Repositorio de prácticas de laboratorio realizadas en pareja para la asignatura de Programación y Estructuras de Datos en el curso académico 2022-2023.
 
 ## Autores de las prácticas:
@@ -18,11 +18,13 @@ Repositorio de prácticas de laboratorio realizadas en pareja para la asignatura
    - Implementación de dos estructuras de datos el Tipo Abstracto de Datos Pila y el Tipo Abstracto de Datos Cola
    - [Ver código](PED_P2_4L_1/TADs-Pila-y-Cola/src)
    - [Memoria técnica](PED_P2_4L_1/Memoria-Practica2.pdf)
+   - [Enunciado de la práctica](PED_P2_4L_1/Practica_2_PED_2022-23.pdf)
      
 3. **Práctica 3: TAD ABB**
    - Implementación de una estructura de datos el Tipo Abstracto de Datos Árbol Binario de Busqueda
    - [Ver código](PED_P3_4L_1/TAD-ABB/src)
    - [Memoria técnica](PED_P3_4L_1/Memoria-Practica3.pdf)
+   - [Enunciado de la práctica](PED_P3_4L_1/Practica_3_PED_2022-23.pdf)
 
 ## Cómo ejecutar
 
